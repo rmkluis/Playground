@@ -7,4 +7,4 @@ public class Main {
         System.out.println(greeting+" " +name+ "!");
     }
 }
-//comment
+//test commit 2
